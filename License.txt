@@ -1,0 +1,31 @@
+This project is open-source and available under the MIT License.
+
+
+#### **Step 3: Add Your Project Files**
+
+Now, you’ll need to upload your Python script and wordlist file to GitHub.
+
+1. **Create Your Project Files**:
+   - Create a folder named `Password-Cracking-Tool`.
+   - Inside it, save your Python script as `password_cracker.py`.
+   - Also, add a text file `wordlist.txt` containing common passwords.
+
+2. **Upload Files to GitHub**:
+   - Navigate to your GitHub repository page.
+   - Click on **Add file** → **Upload files**.
+   - Upload both the Python script and wordlist file.
+   - Commit the changes to save them.
+
+#### **Step 4: Share Your GitHub Repository**
+
+Once you’ve uploaded everything:
+
+1. Go to your repository page on GitHub.
+2. Copy the URL from your browser’s address bar (e.g., `https://github.com/yourusername/Password-Cracking-Tool`).
+3. You can now share this URL on your resume, LinkedIn, or portfolio to showcase your project.
+
+---
+
+### **Project Structure Example:**
+Your project directory will look like this:
+
